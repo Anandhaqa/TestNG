@@ -1,0 +1,32 @@
+    1  git clone https://github.com/azharudeenjaferali/TestRepository.git
+    2  git status
+    3  git -version
+    4  git -v
+    5  clear
+    6  git pull
+    7  cd TestRepository/
+    8  git pull
+    9  history
+   10  ls
+   11  cd TestRepository/
+   12  ls
+   13  cd src/
+   14  ls
+   15  history
+   16  ls -a
+   17  cd ..
+   18  cd ..
+   19  ls
+   20  history
+   21  git add *
+   22  git status
+   23  git init
+   24  git init
+   25  git add .
+   26  git status
+   27  git commit -m "TestNG FrameWork"
+   28  git remote add origin https://github.com/Anandhaqa/TestNG.git
+   29  git branch
+   30  git push origin master
+   31  history
+   32  history>history1.txt
